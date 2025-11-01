@@ -19,3 +19,12 @@ GetRandomArray(int length) generates a random array of objects.
 ObjectClassifier(object[] array) analyzes each element's type and value, returning a description.
 
 Uses pattern matching (switch expressions) to inspect types, ranges, and properties.
+
+## Example Output
+5 is a small number
+-3 is a negative number
+Hi is a short string
+Hello world is a long string
+{X=1,Y=2} is a point in the first quadrant
+{X=-1,Y=-2} is a point in the third quadrant
+is a null
