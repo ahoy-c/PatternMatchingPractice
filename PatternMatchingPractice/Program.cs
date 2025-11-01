@@ -95,7 +95,7 @@ namespace PatternMatchingPractice
         static void Main(string[] args)
         {
             object[] ar = GetRandomArray(25);
-            Console.WriteLine(ObjectClassifier(GetRandomArray(25)).ToString());
+            Console.WriteLine(ObjectClassifier(ar).ToString());
         }
     }
 }
