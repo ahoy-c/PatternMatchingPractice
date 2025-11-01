@@ -12,7 +12,7 @@ This project is a small console application that demonstrates the use of **patte
 - Classifies each object in the array and prints a description using `switch` and **pattern matching**.
 - Demonstrates property patterns, relational patterns, and type patterns in C#.
 
-##How it works
+## How it works
 
 GetRandomArray(int length) generates a random array of objects.
 
