@@ -21,10 +21,10 @@ ObjectClassifier(object[] array) analyzes each element's type and value, returni
 Uses pattern matching (switch expressions) to inspect types, ranges, and properties.
 
 ## Example Output
-5 is a small number
--3 is a negative number
-Hi is a short string
-Hello world is a long string
-{X=1,Y=2} is a point in the first quadrant
-{X=-1,Y=-2} is a point in the third quadrant
+5 is a small number<br>
+-3 is a negative number<br>
+Hi is a short string<br>
+Hello world is a long string<br>
+{X=1,Y=2} is a point in the first quadrant<br>
+{X=-1,Y=-2} is a point in the third quadrant<br>
 is a null
